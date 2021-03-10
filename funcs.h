@@ -1,4 +1,5 @@
 //Hi!
+//http
 // заголовочный файл funcs.h
 <<<<<<< HEAD
 #define __FUNCS_H__
